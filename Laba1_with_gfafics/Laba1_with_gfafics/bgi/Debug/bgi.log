@@ -1,0 +1,109 @@
+﻿  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\drawing.cxx(819,9): warning C4101: tries: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\drawing.cxx(859,10): warning C4101: answer: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\drawing.cxx(1110,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  file.cxx
+  laba1.cpp
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(171,9): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(176,9): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(179,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(183,9): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(188,8): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(201,24): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(206,43): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(208,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(196,15): warning C4101: y: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(196,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(195,24): warning C4101: j: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(23,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(99,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "DerivativeCoef<double,3> calcDerivativeCoef<double,3,L>(const std::array<double,3> &,L) noexcept"
+          with
+          [
+              L=int
+          ]
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\laba1.cpp(233,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::array<double,16> calcDerivative<double,3,int>(const std::array<double,3> &,L,std::array<double,16> &) noexcept"
+          with
+          [
+              L=int
+          ]
+  misc.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,39): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,46): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,53): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,60): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,67): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,74): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,81): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(595,88): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,39): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,46): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,53): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,60): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,67): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,74): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,81): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(596,88): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,39): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,46): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,53): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,60): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,67): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,74): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,81): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(597,88): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,39): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,46): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,53): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,60): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,67): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,74): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,81): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(598,88): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,39): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,46): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,53): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,60): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,67): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,74): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,81): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\misc.cxx(599,88): warning C4838: Преобразование из "int" в "unsigned short" требует сужающего преобразования.
+  mouse.cxx
+  palette.cxx
+  main.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(189,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(189,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(192,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(192,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(195,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(194,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(194,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(194,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(333,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(367,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(388,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\main.cxx(397,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  text.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\text.cxx(348,19): warning C4018: <: несоответствие типов со знаком и без знака
+  winbgi.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\winbgi.cxx(134,14): warning C4101: actual_color: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\winbgi.cxx(133,9): warning C4101: bgi_color: неиспользованная локальная переменная
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\winbgi.cxx(494,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  winthread.cxx
+C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\winthread.cxx(320,9): warning C4101: i: неиспользованная локальная переменная
+  Создание кода...
+LINK : warning LNK4031: не указана подсистема; принимается CONSOLE
+  bgi.vcxproj -> C:\Users\User\Desktop\Выч. маты\1 задание\Лаба 1(численное дифференцирование)\Laba1_with_gfafics\Laba1_with_gfafics\bgi\Debug\bgi.exe
